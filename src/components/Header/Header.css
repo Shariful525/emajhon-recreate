@@ -1,0 +1,18 @@
+.nav_header{
+    height: 80px;
+    background: #1C2B35;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 140px;
+}
+.nav_header_list a{
+    color: #fff;
+    text-decoration: none;
+    font-size: 17px;
+    margin-left: 36px;
+}
+.nav_header_list a:hover{
+    color: orange;
+    /* text-decoration: dashed; */
+}
