@@ -5,6 +5,8 @@
     align-items: center;
     justify-content: space-between;
     padding: 0 140px;
+    /* position: sticky;
+    top: 0; */
 }
 .nav_header_list a{
     color: #fff;
